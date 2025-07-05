@@ -1,8 +1,10 @@
-import ReactLogo from './assets/react.svg'
-
+import Header from './components/header';
+import About from './components/mainpage';
 function App() {
   return (
-    <div className="flex justify-center items-center min-w-full min-h-screen bg-purple-950 text-white">
+    <div>
+      <Header />
+      <About />
 
     </div>
   );
