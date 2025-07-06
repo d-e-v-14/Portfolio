@@ -1,12 +1,49 @@
-# React + Vite
+#  Dev Mehandru | Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official repository of my **personal portfolio website**!
 
-Currently, two official plugins are available:
+This project showcases who I am as a developer—my **skills**, **projects**, and **interests** in fields like **Machine Learning**, **Web Development**, and **UI/UX Design**. Built to be visually appealing and technically sound, this site is a reflection of both my creativity and coding capabilities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Site
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [Visit My Portfolio](https://your-portfolio-link.com)  
+_(Replace the link with your actual deployed site)_
+
+---
+
+## Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS  
+- **Animations**: Framer Motion, GSAP  
+- **Designs**: Figma  
+- **Version Control**: Git & GitHub  
+- **Deployment**: Vercel / Netlify / GitHub Pages _(choose what you used)_
+
+---
+
+## 📁 Features
+
+- Smooth scroll and animated transitions  
+- About Me, Resume, and Contact sections  
+- Fully responsive and mobile-friendly design
+
+---
+
+## Purpose
+
+This website serves as:
+- A digital representation of my portfolio
+- A place to showcase my skills and side projects
+- A hub to connect with potential collaborators and recruiters
+
+---
+
+## Contact Me
+
+- 📧 Email: mehandrudev@gmail.com  
+
+---
+
+
